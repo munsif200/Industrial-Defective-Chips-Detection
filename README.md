@@ -1,0 +1,1 @@
+# Industrial-Defective-Chips-Detection
