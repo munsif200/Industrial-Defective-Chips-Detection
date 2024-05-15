@@ -20,6 +20,7 @@ git clone https://github.com/munsif200/Industrial-Defective-Chips-Detection.git
 2. Arrange the data in normal and abnormal folders.
 3. Train and evaluate the model.
 4. Analyze results using standard metrics.
+
 If you find this work helpful, please consider citing it:
 
 Ullah, W., Khan, S. U., Kim, M. J., Hussain, A., Munsif, M., Lee, M. Y., ... & Baik, S. W. (2024). Industrial defective chips detection using deep convolutional neural network with inverse feature matching mechanism. Journal of Computational Design and Engineering, qwae019.
