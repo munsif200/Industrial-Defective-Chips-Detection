@@ -14,8 +14,7 @@ pip install tensorflow-gpu==2.4.0 and tensorflow-estimator==2.4.0
 
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/your-username/Transformer-Network-for-Short-term-Photovoltaic-Power-Generation-Forecasting.git](https://github.com/munsif200/Transformer-Network-for-Short-term-Photovoltaic-Power-Generation-Forecasting-.git
-cd Transformer-Network-for-Short-term-Photovoltaic-Power-Generation-Forecasting
+git clone https://github.com/munsif200/Industrial-Defective-Chips-Detection.git
 ```
 1. Acquire data by requesting **munsif3797@gmail.com** 
 2. Arrange the data in normal and abnormal folders.
